@@ -32,7 +32,7 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 10. The Ubuntu Server 18.04 LTS Installation launches and we must select our language to continue.
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/10.png)
 11. Select your language and press Enter. Then select your keyboard configuration and press Enter.
-![]()
+![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/11.png)
 12. Make sure that ‘Install Ubuntu’ is selected and press the Enter button again.
 ![]()
 13. Press Enter to select the default network connection configuration.
