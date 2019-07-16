@@ -42,7 +42,7 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 15. Ensure that ‘Use an Entire Disk’ is selected and press Enter.
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/15.png)
 16. In this window, the virtual disk image that we created in steps 4-7 is highlighted. This is what we want, so press Enter to continue.
-![]()
+![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/16.png)
 17. We are now presented with the hard disk partition schema of the new virtual machine. Ensure that ‘Done’ is highlighted and press Enter to continue.
 ![]()
 18. A confirmation dialog appears asking if we are sure about our hard disk configuration. We are sure, so select and highlight ‘Continue’ and press Enter.
