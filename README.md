@@ -56,5 +56,5 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 22. The new Ubuntu Server 18.04 LTS virtual machine will reboot and we can login to the machine for the first time. Enter the credentials that you created in step 19 to log in to the machine.
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/22.png)
 23. Ubuntu Server 18.04 LTS virtual machine is successfully installed and ready for use. The first order of business for the new machine is to update it. Learn how to update your new Ubuntu Server 18.04 LTS virtual machine here.
-![]()
+![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/23.png)
 
