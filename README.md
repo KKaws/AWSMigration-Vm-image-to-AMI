@@ -36,7 +36,7 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 12. Make sure that ‘Install Ubuntu’ is selected and press the Enter button again.
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/12.png)
 13. Press Enter to select the default network connection configuration.
-![]()
+![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/13.png)
 14. Press Enter to skip adding a proxy.
 ![]()
 15. Ensure that ‘Use an Entire Disk’ is selected and press Enter.
