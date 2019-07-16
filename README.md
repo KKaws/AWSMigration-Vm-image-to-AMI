@@ -50,7 +50,7 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 19. While the Ubuntu Server 18.04 LTS system begins to install, we must provide our user information. Enter yours and highlight ‘Done’ at the bottom of the window, then press Enter to continue.
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/19.png)
 20. When the installation completes, select ‘Reboot Now’ and press Enter. This will reboot the new Ubuntu Server 18.04 LTS virtual machine.
-![]()
+![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/20.png)
 21. You will be prompted to remove installation media before rebooting. Simply press Enter to continue the reboot process.
 ![]()
 22. The new Ubuntu Server 18.04 LTS virtual machine will reboot and we can login to the machine for the first time. Enter the credentials that you created in step 19 to log in to the machine.
