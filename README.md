@@ -46,7 +46,7 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 17. We are now presented with the hard disk partition schema of the new virtual machine. Ensure that ‘Done’ is highlighted and press Enter to continue.
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/17.png)
 18. A confirmation dialog appears asking if we are sure about our hard disk configuration. We are sure, so select and highlight ‘Continue’ and press Enter.
-![]()
+![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/18.png)
 19. While the Ubuntu Server 18.04 LTS system begins to install, we must provide our user information. Enter yours and highlight ‘Done’ at the bottom of the window, then press Enter to continue.
 ![]()
 20. When the installation completes, select ‘Reboot Now’ and press Enter. This will reboot the new Ubuntu Server 18.04 LTS virtual machine.
