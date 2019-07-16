@@ -19,3 +19,5 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/4.png)
 5.	Select ‘VDI (VirtualBox Disk Image) as the hard disk file type and click the ‘Next >’ button to proceed.
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/5.png)
+6.	Select the option to dynamically allocate the storage on the physical hard disk and click the ‘Next >’ button to continue.
+![]()
