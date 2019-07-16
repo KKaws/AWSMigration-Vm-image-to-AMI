@@ -14,3 +14,5 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 3.	Click the ‘Next >’ button to proceed. Select the amount of RAM that you want to allocate to your new virtual machine. Since Ubuntu Server is so light on resources, 1 GB (1024 MB) will be just fine for this tutorial.
 
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/3.png)
+
+4.	Click the ‘Next >’ button. Select the option to create a virtual hard disk and click the ‘Create’ button to create the virtual hard disk for the new virtual machine.
