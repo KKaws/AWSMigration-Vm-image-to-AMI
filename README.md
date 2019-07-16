@@ -30,3 +30,31 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 9. In the new pop-up dialog, we must select the Ubuntu Server 18.04 LTS iso that we downloaded from the Ubuntu website. Click the folder icon, navigate to the iso, then click the ‘Start’ button to begin the installation.
 ![]()
 10. The Ubuntu Server 18.04 LTS Installation launches and we must select our language to continue.
+![]()
+11. Select your language and press Enter. Then select your keyboard configuration and press Enter.
+![]()
+12. Make sure that ‘Install Ubuntu’ is selected and press the Enter button again.
+![]()
+13. Press Enter to select the default network connection configuration.
+![]()
+14. Press Enter to skip adding a proxy.
+![]()
+15. Ensure that ‘Use an Entire Disk’ is selected and press Enter.
+![]()
+16. In this window, the virtual disk image that we created in steps 4-7 is highlighted. This is what we want, so press Enter to continue.
+![]()
+17. We are now presented with the hard disk partition schema of the new virtual machine. Ensure that ‘Done’ is highlighted and press Enter to continue.
+![]()
+18. A confirmation dialog appears asking if we are sure about our hard disk configuration. We are sure, so select and highlight ‘Continue’ and press Enter.
+![]()
+19. While the Ubuntu Server 18.04 LTS system begins to install, we must provide our user information. Enter yours and highlight ‘Done’ at the bottom of the window, then press Enter to continue.
+![]()
+20. When the installation completes, select ‘Reboot Now’ and press Enter. This will reboot the new Ubuntu Server 18.04 LTS virtual machine.
+![]()
+21. You will be prompted to remove installation media before rebooting. Simply press Enter to continue the reboot process.
+![]()
+22. The new Ubuntu Server 18.04 LTS virtual machine will reboot and we can login to the machine for the first time. Enter the credentials that you created in step 19 to log in to the machine.
+![]()
+23. Ubuntu Server 18.04 LTS virtual machine is successfully installed and ready for use. The first order of business for the new machine is to update it. Learn how to update your new Ubuntu Server 18.04 LTS virtual machine here.
+![]()
+
