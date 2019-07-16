@@ -28,7 +28,7 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 8.	Click the ‘Create’ button to finish the initial configuration of the new virtual machine. The pop-up dialog will close and we can begin to install Ubuntu Server 18.04 LTS. Click on your new virtual machine in the left pane of VirtualBox Manager and highlight it, then click the ‘Start’ button on the top-left of the window.
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/8.png)
 9. In the new pop-up dialog, we must select the Ubuntu Server 18.04 LTS iso that we downloaded from the Ubuntu website. Click the folder icon, navigate to the iso, then click the ‘Start’ button to begin the installation.
-![]()
+![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/9.png)
 10. The Ubuntu Server 18.04 LTS Installation launches and we must select our language to continue.
 ![]()
 11. Select your language and press Enter. Then select your keyboard configuration and press Enter.
