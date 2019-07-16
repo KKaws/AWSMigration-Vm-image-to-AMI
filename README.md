@@ -30,7 +30,7 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 9. In the new pop-up dialog, we must select the Ubuntu Server 18.04 LTS iso that we downloaded from the Ubuntu website. Click the folder icon, navigate to the iso, then click the ‘Start’ button to begin the installation.
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/9.png)
 10. The Ubuntu Server 18.04 LTS Installation launches and we must select our language to continue.
-![]()
+![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/10.png)
 11. Select your language and press Enter. Then select your keyboard configuration and press Enter.
 ![]()
 12. Make sure that ‘Install Ubuntu’ is selected and press the Enter button again.
