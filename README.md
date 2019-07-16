@@ -7,4 +7,6 @@ This tutorial assumes that you have already downloaded the Ubuntu Server 18.04 L
 ![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/1.png)
 
 2.	In the pop-up dialog that appears, give your virtual machine a descriptive name. Then select ‘Linux’ in the Type field and ‘Ubuntu (64-bit)’ in the Version field.
-![]()
+![](https://github.com/KKaws/AWSMigration-Vm-image-to-AMI/blob/master/2.png)
+
+
